@@ -11,3 +11,4 @@ For any Contact, reach out via E-mail: Agw73@nau.edu or by Discord: `PhysicsMD#4
 [![](https://github-readme-stats.vercel.app/api?username=PhysicsMD&theme=midnight-purple&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&disable_animations=false&hide_title=true&bg_color=000000&hide_border=true&text_color=FFFFFF&icon_color=00FFFB&title_color=00FFFB)](#)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhysicsMD&theme=midnight-purple&layout=compact&card_width=445&langs_count=10&hide_border=true&hide_title=true&hide=)](#)
 - - - -
+![](https://komarev.com/ghpvc/?username=PhysicsMD&color=lightgrey&style=for-the-badge&label=TOTAL+VIEWS)
