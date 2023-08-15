@@ -1,6 +1,6 @@
 Hi, Im Alenn Wright
 
-  I am a Graduate from NAU with a Bachelors in Electrical Engineering with Computer Emphasis. I am most familiar with C, JAVA, and PYTHON. I also have my hands wet in Javascript, HTML, CSS, MYSQL, C++, Assembly, MATLAB, PHP, TypeScript, Verilog, and PyScript. I spend my spare time thinging of new coding projects, playing around with CTF's and 3d printing.
+  I am a Graduate from NAU with a Bachelors in Electrical Engineering with Computer Emphasis. I am most familiar with C, JAVA, and PYTHON. I also have my hands wet in Javascript, HTML, CSS, MYSQL, C++, Assembly, MATLAB, PHP, TypeScript, Verilog, and PyScript. I spend my spare time thinking of new coding projects, playing around with CTF's and 3d printing.
 
 For any Contact, reach out via E-mail: Alenn.Wright@microchip.com
 
